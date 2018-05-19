@@ -1,0 +1,10 @@
+My original write up for the university seems to have become a victim of my
+digital house cleaning.
+
+If my memory serves me correct, this was our first application of Java's stack
+implementation. This program takes an infix expression, pushes it into a stack,
+and pops the expression when the correct token is identified.
+
+My apologies if you are actually reading this and do not see my test data.
+
+This is only intended to show potential employers some of my coding efforts.
