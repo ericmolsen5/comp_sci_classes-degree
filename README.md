@@ -11,7 +11,5 @@ so I don't cross any academic boundaries.
 Most of my assignments have been in Java. Whenever I am required to build more complex code
 in other languages, I will add those accordingly.
 
-##Contact
-
 If you have any questions or comments, please attach them to this Github forum.
 
