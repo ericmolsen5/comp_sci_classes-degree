@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  operand.cpp
+  parse.cpp
+  subexpression.cpp
+  symboltable.cpp
+c:\users\laptop\desktop\umuc\courses\2018 01 summer\cmsc 330 advance programming lang\cpp_project\cmsc330_project2_cpp\cmsc_330_project2\project2\symboltable.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  variable.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\Laptop\Desktop\UMUC\Courses\2018 01 Summer\CMSC 330 Advance Programming Lang\CPP_Project\CMSC330_Project2_CPP\CMSC_330_Project2\Debug\Project2.exe
