@@ -11,6 +11,8 @@ so I don't cross any academic boundaries.
 The majority of my assignments have been in Java. Several data structure assignments are 
 included here
 
+A recursive decent parser which defines an artificial GUI generating language is also included
+
 ## C++
 
 So far I've developed one simple C++ program. It is implemented in Visual Studio.

@@ -1,0 +1,14 @@
+Window "Race" (200, 200) Layout Flow:
+  Textfield 20;
+  Panel Layout Grid ( 4, 3, 5, 5):
+    Group:
+      Radio "Butter";
+      Radio "5";
+      Radio"Jam";
+    End;
+    Button "8";
+    Button "9";
+    Label "";
+    Button "0";    
+  End;
+End.
