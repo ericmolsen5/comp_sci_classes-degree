@@ -15,8 +15,5 @@ A recursive decent parser which defines an artificial GUI generating language is
 
 ## C++
 
-So far I've developed one simple C++ program. It is implemented in Visual Studio.
-
-
-If you have any questions or comments, please attach them to this Github forum.
-
+So far I've developed one simple C++ program. It is implemented in Visual Studio and is a
+simple infix calculator.
